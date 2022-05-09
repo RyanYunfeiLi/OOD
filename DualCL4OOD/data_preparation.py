@@ -24,11 +24,3 @@ if __name__ == '__main__':
     target = 'datasets_manual/SST-2_Dev.json'
     convert_tsv2json(source, target)
     print('hello world.')
-    source = 'datasets_origin/SST-2/train.tsv'
-    target = 'datasets_manual/SST-2_Train.json'
-    convert_tsv2json(source, target)
-    print('hello world.')
-    source = 'datasets_origin/SST-2/Test.tsv'
-    target = 'datasets_manual/SST-2_Test.json'
-    convert_tsv2json(source, target)
-    print('hello world.')
