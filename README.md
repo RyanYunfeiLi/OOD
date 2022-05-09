@@ -13,7 +13,7 @@ PyTorch implementations for papers, include:
 
 ## dataset description
 ### Dual-Contrastive-Learning-main
-- datasets_manul: includes SST2, NAVI, CAR and CAR system train/dev data;
-- datasets_origin: includes NAVI, CAR and CAR system origin data;
-- datasets_processed: includes NAVI, CAR and CAR system eval data.
+- datasets_manul: includes SST2, and other domain-oriented open source train/dev data;
+- datasets_origin: includes SST2, and other domain-oriented open source origin data;
+- datasets_processed: includes SST2, and other domain-oriented open source eval data.
 
